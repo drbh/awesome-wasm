@@ -122,6 +122,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ### Data processing
 - [jq-web - the JSON processing tool jq ported to the web with Emscripten](https://github.com/fiatjaf/jq-web)
 
+### Compression & Decompression
+- [wasm-flate - The world's fastest compression and decompression in the browser. Built with Rust.](https://github.com/drbh/wasm-flate) [npm](https://www.npmjs.com/package/wasm-flate)
+
 ### WebGL
 - [ammo.js - direct port of the Bullet physics engine to JavaScript using Emscripten](https://github.com/kripken/ammo.js)
 - [Particle System - an experiment designed to benchmark web technologies: ES6, Emscripten and Web Assembly](https://github.com/leefsmp/Particle-System)
